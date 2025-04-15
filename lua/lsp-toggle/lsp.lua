@@ -62,7 +62,7 @@ return {
 	sorting_strategy = 'ascending',
 
 	layout_config = {
-		height = { 0.4, min = 10, max = 30 },
+		height = { 0.6, min = 10, max = 30 },
 		width = { 0.3, min = 30, max = 120 },
 		prompt_position = 'top', -- top or bottom
 	},
